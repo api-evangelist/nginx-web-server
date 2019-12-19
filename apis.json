@@ -1,0 +1,68 @@
+{
+    "name": "nginx web server",
+    "description": "News about nginx (engine x) - a high performance free open source web server powering busiest sites on the Internet. For NGINX Inc. news please check @nginx",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2674-nginx-web-server.jpg",
+    "tags": [
+        "api lifeycle",
+        "api service provider",
+        "deployment",
+        "gateway",
+        "have api",
+        "web server"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/nginx-web-server\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "nginx web server",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2674-nginx-web-server.jpg",
+            "humanURL": "http:\/\/nginx.org\/en\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/nginx-web-server-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/nginx-web-server-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.nginx.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.nginx.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/nginx"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/nginx"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/nginx"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/nginxorg"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/nginx.org\/en\/"
+        }
+    ]
+}
